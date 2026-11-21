@@ -1,2 +1,3 @@
 # hello-world
-Meu primeiro repositório
+# Meu primeiro repositório
+print("Hello World!")
