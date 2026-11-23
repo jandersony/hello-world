@@ -1,8 +1,11 @@
-# hello-world
-# Meu primeiro repositório
+# My first repository
 print("Hello World!")
 print("Bem-vindos aos meus repositórios!")
-print("Meu nome é Janderson Yuri")
 print("My name is Janderson Yuri")
+print("Meu nome é Janderson Yuri")
+print("I am currently 15 years old")
 print("Atualmente, tenho 15 anos")
-print("I am currently 15 years old.")
+print("Studying Sistems Development")
+print("Cursando Desenvolvimento de Sistemas")
+print("I live in Brazil")
+print("Eu vivo no Brasil")
