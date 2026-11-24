@@ -1,11 +1,2 @@
 # My first repository
-print("Hello World!")
-print("Bem-vindos aos meus repositórios!")
-print("My name is Janderson Yuri")
-print("Meu nome é Janderson Yuri")
-print("I am currently 15 years old")
-print("Atualmente, tenho 15 anos")
-print("Studying Sistems Development")
-print("Cursando Desenvolvimento de Sistemas")
-print("I live in Brazil")
-print("Eu vivo no Brasil")
+Hello World! My name is Janderson Yuri. I am Brazilian. I am currently 15 years old and am enrolled in a technical course in Systems Development. 
